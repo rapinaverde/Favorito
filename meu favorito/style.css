@@ -15,3 +15,6 @@ img{
     border: 10px solid lightgrey;
     border-radius: 40px;
 }
+.link:hover{
+    background-color: beige;
+}
